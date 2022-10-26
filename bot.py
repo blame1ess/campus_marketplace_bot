@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import reply as nav
 import inline as inl
 
-API_TOKEN = '5214367976:AAE70RfU32o_UjpOgDegVxUAVsxNFepywkQ'
+API_TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 
